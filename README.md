@@ -8,7 +8,7 @@ With the release of [next-explorer](https://next-explorer.yummy.capital) we now 
 
 ![1-day-before.png](./assets/1-day-before.png)
 
-There is day before the announcement of [«70 billion CRO to be burned»](https://blog.crypto.com/70-billion-cro-to-be-burned/), a large amount of CRO were [withdrawn](./data/1-withdrawals.json) from `Crypto.com MultiSig 7` to to various addresses that were never used. According to our data, funds were withdrawn to `796` addresses, and a total of `5.682 billion` CRO were withdrawn.
+It is the day before the announcement of [«70 billion CRO to be burned»](https://blog.crypto.com/70-billion-cro-to-be-burned/). A large amount of CRO were [withdrawn](./data/1-withdrawals.json) from `Crypto.com MultiSig 7` to various addresses that were never used. According to our data, funds were withdrawn to `796` addresses, and a total of `5.682 billion` CRO were withdrawn.
 
 > Later, some of these funds will be migrated to Crypto.org Mainnet.
 
@@ -40,7 +40,7 @@ Excluding the two addresses (`0xcc194f54ceae7747a2b26db578ef9129387b2535` and `0
 13) Binance => 0x32a33c70e47d2e8fbed0585783e696503a0b2314 => 38 addresses
 ```
 
-In addition, midterm address #2 was used to to top up addresses that were topped up by midterm address #3. There is a similar situation with addresses #4 and #5.
+In addition, midterm address #2 was used to top up addresses that were topped up by midterm address #3. There is a similar situation with addresses #4 and #5.
 
 [Here](./data/2-1-intersections-2-and-3.json) are the addresses that were topped up from addresses #2 and #3, and [here](./data/2-2-intersections-4-and-5.json) are the addresses that were topped up from addresses #5 and #6.
 
@@ -85,7 +85,7 @@ In the last 5 groups there is a significant difference between the start and end
 | 11  | 0xf7fd72bbf7f83f371c802229458c3247ed0c5823 | 335,866 | 336,138 | 359,682 | 359,784 | 550,088 | 550,226 |
 | 12  | 0x01e6f3e73b5f038f5d2dafabcafb29a3649fdfde | 363,231 | 364,046 | 459,195 | 459,382 | 550,241 | 550,423 |
 
-This may be due to an incorrect initial grouping. But, nevertheless, there are neighborhoods in which delegations occur. Delegations arise from group to group and almost do not overlap with each other.
+This may be due to an incorrect initial grouping. But, nevertheless, there are neighborhoods in which delegations occur. Delegations arise from group to group and hardly intersect with each other.
 
 For example, here is what the delegations for groups #7 and #8 look like:
 
@@ -124,7 +124,7 @@ A large amount of CRO were withdrawn from `Crypto.com: MultiSig 7` wallet and su
 | 13  | Forbole                        | 73,059,945.3649        | 73,304,348.6669         | 99.67%         |
 | 14  | cros-nest                      | 70,462,058.3899        | 74,722,094.6717         | 94.30%         |
 | 15  | Crypto.bzh                     | 69,647,680.3472        | 73,890,930.5312         | 94.26%         |
-| 16  | Allnodes 0% fee                | 52,350,504.227         | 223,421,460.523         | 23.43%         |
+| 16  | Allnodes                       | 52,350,504.227         | 223,421,460.523         | 23.43%         |
 | 17  | BCW CC Node                    | 10,000,000.00          | 10,004,606.1166         | 99.95%         |
 | 18  | [SG] X Staking                 | 8,150,563.7169         | 15,755,786.5985         | 51.73%         |
 | 19  | Cosmostation                   | 5,000,000.00           | 6,037,420.9304          | 82.82%         |

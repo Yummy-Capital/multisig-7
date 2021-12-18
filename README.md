@@ -133,5 +133,5 @@ A large amount of CRO were withdrawn from `Crypto.com: MultiSig 7` wallet and su
 | 22  | Defier                         | 800,000.00             | 2,814,325.4242          | 28.43%         |
 |     | **Total**                      | **2,457,054,955.4211** |                         |                |
 
-**\*** Valid as of 12/11/2021.
+**\*** Valid as of 12/11/2021.  
 **\*\*** The ratio between the delegated amount from `Crypto.com: MultiSig 7` and the total delegated amount.

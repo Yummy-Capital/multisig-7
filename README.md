@@ -148,4 +148,4 @@ A few more wallets were involved and transferred funds from Ethereum to Crypto.o
 * Of these, ~146 million have already been delegated.
 * And the remaining ~71 million have not yet been used.
 
-You can see related data [here]('./data/5-fresh-transfers.json').
+You can see related data [here](./data/5-fresh-transfers.json).

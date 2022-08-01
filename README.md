@@ -56,7 +56,7 @@ Based on the amount of CRO that have migrated from Ethereum network to Crypto.or
 
 Finally, the migrated funds were delegated to the validators.
 
-There are two datasets with delegation transactions.[The first](./data/4-1-delegations.json) was sorted by height in ascending order, and [the second](<(./data/4-2-delegations.json)>) was grouped by address, which were used to top up with ether.
+There are two datasets with delegation transactions. [The first](./data/4-1-delegations.json) was sorted by height in ascending order, and [the second](<(./data/4-2-delegations.json)>) was grouped by address, which were used to top up with ether.
 
 Using this data, you can [see](./data/4-3-delegations.log) how the delegations happened: first one group of addresses was used, then the next, and so on.
 
@@ -135,3 +135,17 @@ A large amount of CRO were withdrawn from `Crypto.com: MultiSig 7` wallet and su
 
 **\*** Valid as of 12/11/2021.  
 **\*\*** The ratio between the delegated amount from `Crypto.com: MultiSig 7` and the total delegated amount.
+
+#### Updated: 01.08.22
+
+Astrologers proclaim the week of migrations.
+Bonded tokens amount increased.
+
+![5-statistics.png](./assets/5-statistics.png)
+
+A few more wallets were involved and transferred funds from Ethereum to Crypto.org Mainnet:
+* Migrated an additional ~217 million CRO.
+* Of these, ~146 million have already been delegated.
+* And the remaining ~71 million have not yet been used.
+
+You can see related data [here]('./data/5-fresh-transfers.json').

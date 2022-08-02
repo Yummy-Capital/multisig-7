@@ -136,7 +136,7 @@ A large amount of CRO were withdrawn from `Crypto.com: MultiSig 7` wallet and su
 **\*** Valid as of 12/11/2021.  
 **\*\*** The ratio between the delegated amount from `Crypto.com: MultiSig 7` and the total delegated amount.
 
-#### Updated: 01.08.22
+## Fresh transfers
 
 Astrologers proclaim the week of migrations.
 Bonded tokens amount increased.
@@ -144,8 +144,10 @@ Bonded tokens amount increased.
 ![5-statistics.png](./assets/5-statistics.png)
 
 A few more wallets were involved and transferred funds from Ethereum to Crypto.org Mainnet:
-* Migrated an additional ~217 million CRO.
-* Of these, ~146 million have already been delegated.
-* And the remaining ~71 million have not yet been used.
+* Migrated an additional ~280 million CRO.
+* Of these, ~188 million have already been delegated.
+* And the remaining ~92 million have not yet been used.
 
 You can see related data [here](./data/5-fresh-transfers.json).
+
+*Updated: 02.08.22*

@@ -645,7 +645,15 @@
   {
     "address": "cro17ql03mytv4npdwe67qdeuu39p9tgq792nmhlq4",
     "amount": "713388305700000",
-    "delegations": [],
+    "delegations": [
+      {
+        "amount": "713387000000000",
+        "validator": {
+          "address": "crocncl1ax8vwqly42dxu9l5ucfqg6ex9krpzy5y2zylmv",
+          "moniker": "Starship"
+        }
+      }
+    ],
     "links": [
       "https://github.com/Yummy-Capital/multisig-7/blob/main/data/1-withdrawals.json#L2580"
     ],
@@ -751,7 +759,15 @@
   {
     "address": "cro1n5grj5k5pgcar2g2g945kh0n88cwze9vl0hzr4",
     "amount": "708733066440000",
-    "delegations": [],
+    "delegations": [
+      {
+        "amount": "708732066440000",
+        "validator": {
+          "address": "crocncl1ax8vwqly42dxu9l5ucfqg6ex9krpzy5y2zylmv",
+          "moniker": "Starship"
+        }
+      }
+    ],
     "txs": [
       "DCADF249055C295B8B9C60710F8F6AE17F3B32170987C58B433BA7EC4B740FE5"
     ]
@@ -759,7 +775,15 @@
   {
     "address": "cro17ah003rk0rrgt8l9etdk07ezs067z84m5a7g9a",
     "amount": "696654414880000",
-    "delegations": [],
+    "delegations": [
+      {
+        "amount": "696653200000000",
+        "validator": {
+          "address": "crocncl1dy83stnfqnyv0t20zn0g9k6hlqr48w0fkjjgzw",
+          "moniker": "New Shepard"
+        }
+      }
+    ],
     "txs": [
       "B9F8E9E4522649EE8068C48DEF0ABB1DD21C41EC1C7B71DB0E2EA0C891BDD113"
     ]
@@ -767,7 +791,15 @@
   {
     "address": "cro1ahmh0d2vr5avv20zdgwchyq2g9hr57fv3e9rvw",
     "amount": "696536722230000",
-    "delegations": [],
+    "delegations": [
+      {
+        "amount": "696535400000000",
+        "validator": {
+          "address": "crocncl1u5ryf5jwc2jhd9xyvmasfqzacxp03v8dcj8xry",
+          "moniker": "Allnodes.com ⚡️ Auto-compound (Ledger or Keplr)"
+        }
+      }
+    ],
     "txs": [
       "2F4F40799F39049E8001654BDFDDCCAC50E54D7FFE2462BF8C2BEFB7E52C160D"
     ]
@@ -775,7 +807,15 @@
   {
     "address": "cro13af6erwvcczc5406g7ye73u52pawh6mh53z6c8",
     "amount": "688282366760000",
-    "delegations": [],
+    "delegations": [
+      {
+        "amount": "688281000000000",
+        "validator": {
+          "address": "crocncl1ewgpxu7ec2kdeu9cyze0xaufnwkkqkpwq7rmst",
+          "moniker": "Falcon 9"
+        }
+      }
+    ],
     "txs": [
       "03B864F055CFD8FAA0C92DA5AEE75737D59CA908C2084A1CF95CFBA0DE0E1844"
     ]
@@ -783,7 +823,15 @@
   {
     "address": "cro1289jkagqn6apgmtgmk4lw3uhsru2qw66nkk4r0",
     "amount": "634103427870000",
-    "delegations": [],
+    "delegations": [
+      {
+        "amount": "634102400000000",
+        "validator": {
+          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
+          "moniker": "Pegasus"
+        }
+      }
+    ],
     "txs": [
       "B96EEF43665C46236759FE631D76416D2419CF3BE274898B301605E700AF2755"
     ]
@@ -865,6 +913,17 @@
     ],
     "txs": [
       "113C1C37F74FBFC31978CD3D99BC1C9077B994429B394AA759ADB9E02F17789C"
+    ]
+  },
+  {
+    "address": "cro18vvtxq6dfq3m6z8lltp9mh7p3fu3ec9a205775",
+    "amount": "764003191200000",
+    "delegations": [],
+    "links": [
+      "https://github.com/Yummy-Capital/multisig-7/blob/main/data/1-withdrawals.json#L2484"
+    ],
+    "txs": [
+      "EA21E49FC7B92FFD1FDE9F96648CAF6CFECC9BC6FD0076937F61DD950D8C1FDE"
     ]
   }
 ]

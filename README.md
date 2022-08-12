@@ -150,4 +150,4 @@ A few more wallets were involved and transferred funds from Ethereum to Crypto.o
 
 You can see related data [here](./data/5-fresh-transfers.json).
 
-*Updated: 05.08.22*
+*Updated: 12.08.22*

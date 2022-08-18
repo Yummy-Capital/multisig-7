@@ -144,10 +144,10 @@ Bonded tokens amount increased.
 ![5-statistics.png](./assets/5-statistics.png)
 
 A few more wallets were involved and transferred funds from Ethereum to Crypto.org Mainnet:
-* Migrated an additional ~418 million CRO.
-* Of these, ~417 million have already been delegated.
-* And the remaining ~1 million have not yet been used.
+* Migrated an additional ~524 million CRO.
+* Of these, ~452 million have already been delegated.
+* And the remaining ~72 million have not yet been used.
 
 You can see related data [here](./data/5-fresh-transfers.json).
 
-*Updated: 16.08.22*
+*Updated: 18.08.22*

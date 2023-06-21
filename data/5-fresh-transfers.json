@@ -4,17 +4,17 @@
     "amount": "1421485689230000",
     "delegations": [
       {
+        "amount": "754641852340000",
+        "validator": {
+          "address": "crocncl1dy83stnfqnyv0t20zn0g9k6hlqr48w0fkjjgzw",
+          "moniker": "New Shepard"
+        }
+      },
+      {
         "amount": "696419000000000",
         "validator": {
           "address": "crocncl1ewgpxu7ec2kdeu9cyze0xaufnwkkqkpwq7rmst",
           "moniker": "Falcon 9"
-        }
-      },
-      {
-        "amount": "725066000000000",
-        "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
         }
       }
     ],
@@ -51,10 +51,10 @@
     "amount": "758783662810000",
     "delegations": [
       {
-        "amount": "758783000000000",
+        "amount": "789938490670000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl1ax8vwqly42dxu9l5ucfqg6ex9krpzy5y2zylmv",
+          "moniker": "Starship"
         }
       }
     ],
@@ -127,10 +127,10 @@
     "amount": "732395037520000",
     "delegations": [
       {
-        "amount": "732394000000000",
+        "amount": "763078590430000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl1dy83stnfqnyv0t20zn0g9k6hlqr48w0fkjjgzw",
+          "moniker": "New Shepard"
         }
       }
     ],
@@ -279,10 +279,10 @@
     "amount": "714544664190000",
     "delegations": [
       {
-        "amount": "714544000000000",
+        "amount": "744442811040000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl139nl5fnhlxu2asduu5zqq8zzev0632jlf3lgam",
+          "moniker": "Falcon Heavy"
         }
       }
     ],
@@ -336,10 +336,10 @@
     "amount": "690196496910000",
     "delegations": [
       {
-        "amount": "690196000000000",
+        "amount": "718151423790000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl1ax8vwqly42dxu9l5ucfqg6ex9krpzy5y2zylmv",
+          "moniker": "Starship"
         }
       }
     ],
@@ -393,7 +393,7 @@
     "amount": "677051807570000",
     "delegations": [
       {
-        "amount": "677051000000000",
+        "amount": "705417676920000",
         "validator": {
           "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
           "moniker": "Pegasus"
@@ -628,10 +628,10 @@
     "amount": "721308033000000",
     "delegations": [
       {
-        "amount": "721307000000000",
+        "amount": "750354070520000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl139nl5fnhlxu2asduu5zqq8zzev0632jlf3lgam",
+          "moniker": "Falcon Heavy"
         }
       }
     ],
@@ -685,10 +685,10 @@
     "amount": "672398590320000",
     "delegations": [
       {
-        "amount": "672398000000000",
+        "amount": "699475745410000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl1dy83stnfqnyv0t20zn0g9k6hlqr48w0fkjjgzw",
+          "moniker": "New Shepard"
         }
       }
     ],
@@ -723,10 +723,10 @@
     "amount": "669773204180000",
     "delegations": [
       {
-        "amount": "669770000000000",
+        "amount": "696897528250000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl139nl5fnhlxu2asduu5zqq8zzev0632jlf3lgam",
+          "moniker": "Falcon Heavy"
         }
       }
     ],
@@ -837,10 +837,10 @@
     "amount": "634103427870000",
     "delegations": [
       {
-        "amount": "634102400000000",
+        "amount": "659463847000000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl1ax8vwqly42dxu9l5ucfqg6ex9krpzy5y2zylmv",
+          "moniker": "Starship"
         }
       }
     ],
@@ -972,10 +972,10 @@
     "amount": "644375349930000",
     "delegations": [
       {
-        "amount": "644374100000000",
+        "amount": "669509483500000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl1dy83stnfqnyv0t20zn0g9k6hlqr48w0fkjjgzw",
+          "moniker": "New Shepard"
         }
       }
     ],
@@ -1200,10 +1200,10 @@
     "amount": "752020301040000",
     "delegations": [
       {
-        "amount": "752019301040000",
+        "amount": "778815071410000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl1dy83stnfqnyv0t20zn0g9k6hlqr48w0fkjjgzw",
+          "moniker": "New Shepard"
         }
       }
     ],
@@ -1257,10 +1257,10 @@
     "amount": "695869540240000",
     "delegations": [
       {
-        "amount": "695868540240000",
+        "amount": "720663278880000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl139nl5fnhlxu2asduu5zqq8zzev0632jlf3lgam",
+          "moniker": "Falcon Heavy"
         }
       }
     ],
@@ -1333,10 +1333,10 @@
     "amount": "661376291940000",
     "delegations": [
       {
-        "amount": "661375291940000",
+        "amount": "685102533050000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl1ax8vwqly42dxu9l5ucfqg6ex9krpzy5y2zylmv",
+          "moniker": "Starship"
         }
       }
     ],
@@ -1352,10 +1352,10 @@
     "amount": "647201778260000",
     "delegations": [
       {
-        "amount": "647201078260000",
+        "amount": "670992730890000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl139nl5fnhlxu2asduu5zqq8zzev0632jlf3lgam",
+          "moniker": "Falcon Heavy"
         }
       }
     ],
@@ -1504,10 +1504,10 @@
     "amount": "712676719340000",
     "delegations": [
       {
-        "amount": "712674719340000",
+        "amount": "736676083200000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl1dy83stnfqnyv0t20zn0g9k6hlqr48w0fkjjgzw",
+          "moniker": "New Shepard"
         }
       }
     ],
@@ -1542,10 +1542,10 @@
     "amount": "662693388200000",
     "delegations": [
       {
-        "amount": "662692000000000",
+        "amount": "685987941290000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl1ax8vwqly42dxu9l5ucfqg6ex9krpzy5y2zylmv",
+          "moniker": "Starship"
         }
       }
     ],
@@ -1656,10 +1656,10 @@
     "amount": "771093842800000",
     "delegations": [
       {
-        "amount": "771092842800000",
+        "amount": "796870752990000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl139nl5fnhlxu2asduu5zqq8zzev0632jlf3lgam",
+          "moniker": "Falcon Heavy"
         }
       }
     ],
@@ -1673,7 +1673,15 @@
   {
     "address": "cro18220egennd7mx7j7mkmcat3dywktnh66jqydvt",
     "amount": "766283503180000",
-    "delegations": [],
+    "delegations": [
+      {
+        "amount": "600000000000000",
+        "validator": {
+          "address": "crocncl1td4trxpsa3992sqh70erxyeuyjdxdce2kmuzrt",
+          "moniker": "Veno.finance"
+        }
+      }
+    ],
     "links": [
       "https://github.com/Yummy-Capital/multisig-7/blob/main/data/1-withdrawals.json#L2226"
     ],
@@ -1792,10 +1800,10 @@
     "amount": "702309576330000",
     "delegations": [
       {
-        "amount": "702308576330000",
+        "amount": "722817951160000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl1ax8vwqly42dxu9l5ucfqg6ex9krpzy5y2zylmv",
+          "moniker": "Starship"
         }
       }
     ],
@@ -1860,10 +1868,10 @@
     "amount": "644668379410000",
     "delegations": [
       {
-        "amount": "644665079410000",
+        "amount": "663489594920000",
         "validator": {
-          "address": "crocncl1sluuqshjwrttwr553feqpq0550qd9w9zegvdy0",
-          "moniker": "Pegasus"
+          "address": "crocncl1dy83stnfqnyv0t20zn0g9k6hlqr48w0fkjjgzw",
+          "moniker": "New Shepard"
         }
       }
     ],

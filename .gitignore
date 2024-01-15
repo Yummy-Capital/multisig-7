@@ -1,5 +1,7 @@
 .DS_Store
 *.log
+!data/4-3-delegations.log
+!data/6-log.log
 
 data/dump.json
 scripts
